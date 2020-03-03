@@ -1,0 +1,11 @@
+C:\Users\andrelu0022\Desktop\Scripts\Script 1 - Horda\obj\Debug\netcoreapp3.1\Script 1 - Horda.csprojAssemblyReference.cache
+C:\Users\andrelu0022\Desktop\Scripts\Script 1 - Horda\obj\Debug\netcoreapp3.1\Script 1 - Horda.AssemblyInfoInputs.cache
+C:\Users\andrelu0022\Desktop\Scripts\Script 1 - Horda\obj\Debug\netcoreapp3.1\Script 1 - Horda.AssemblyInfo.cs
+C:\Users\andrelu0022\Desktop\Scripts\Script 1 - Horda\bin\Debug\netcoreapp3.1\Script 1 - Horda.exe
+C:\Users\andrelu0022\Desktop\Scripts\Script 1 - Horda\bin\Debug\netcoreapp3.1\Script 1 - Horda.deps.json
+C:\Users\andrelu0022\Desktop\Scripts\Script 1 - Horda\bin\Debug\netcoreapp3.1\Script 1 - Horda.runtimeconfig.json
+C:\Users\andrelu0022\Desktop\Scripts\Script 1 - Horda\bin\Debug\netcoreapp3.1\Script 1 - Horda.runtimeconfig.dev.json
+C:\Users\andrelu0022\Desktop\Scripts\Script 1 - Horda\bin\Debug\netcoreapp3.1\Script 1 - Horda.dll
+C:\Users\andrelu0022\Desktop\Scripts\Script 1 - Horda\bin\Debug\netcoreapp3.1\Script 1 - Horda.pdb
+C:\Users\andrelu0022\Desktop\Scripts\Script 1 - Horda\obj\Debug\netcoreapp3.1\Script 1 - Horda.dll
+C:\Users\andrelu0022\Desktop\Scripts\Script 1 - Horda\obj\Debug\netcoreapp3.1\Script 1 - Horda.pdb
