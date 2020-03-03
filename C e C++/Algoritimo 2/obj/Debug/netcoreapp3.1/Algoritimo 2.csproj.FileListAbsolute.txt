@@ -1,0 +1,11 @@
+C:\Users\andrelu0022\Desktop\Scripts\C e C++\Algoritimo 2\bin\Debug\netcoreapp3.1\Algoritimo 2.exe
+C:\Users\andrelu0022\Desktop\Scripts\C e C++\Algoritimo 2\bin\Debug\netcoreapp3.1\Algoritimo 2.deps.json
+C:\Users\andrelu0022\Desktop\Scripts\C e C++\Algoritimo 2\bin\Debug\netcoreapp3.1\Algoritimo 2.runtimeconfig.json
+C:\Users\andrelu0022\Desktop\Scripts\C e C++\Algoritimo 2\bin\Debug\netcoreapp3.1\Algoritimo 2.runtimeconfig.dev.json
+C:\Users\andrelu0022\Desktop\Scripts\C e C++\Algoritimo 2\bin\Debug\netcoreapp3.1\Algoritimo 2.dll
+C:\Users\andrelu0022\Desktop\Scripts\C e C++\Algoritimo 2\bin\Debug\netcoreapp3.1\Algoritimo 2.pdb
+C:\Users\andrelu0022\Desktop\Scripts\C e C++\Algoritimo 2\obj\Debug\netcoreapp3.1\Algoritimo 2.csprojAssemblyReference.cache
+C:\Users\andrelu0022\Desktop\Scripts\C e C++\Algoritimo 2\obj\Debug\netcoreapp3.1\Algoritimo 2.AssemblyInfoInputs.cache
+C:\Users\andrelu0022\Desktop\Scripts\C e C++\Algoritimo 2\obj\Debug\netcoreapp3.1\Algoritimo 2.AssemblyInfo.cs
+C:\Users\andrelu0022\Desktop\Scripts\C e C++\Algoritimo 2\obj\Debug\netcoreapp3.1\Algoritimo 2.dll
+C:\Users\andrelu0022\Desktop\Scripts\C e C++\Algoritimo 2\obj\Debug\netcoreapp3.1\Algoritimo 2.pdb
