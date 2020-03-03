@@ -1,2 +1,3 @@
 # -Scripts
-Scripts aleatórios
+Scripts aleatórios e aulas
+
